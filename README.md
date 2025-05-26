@@ -177,7 +177,6 @@ These IBM certifications directly complement my Holberton School education:
 
 ### 🎯 Short-term Objectives (2025)
 - [ ] Complete IBM Cloud Specialist certification
-- [ ] Obtain AWS Cloud Practitioner certification
 - [ ] Pursue advanced cybersecurity specializations
 - [ ] Apply skills in Holberton final projects
 
@@ -195,7 +194,7 @@ These IBM certifications directly complement my Holberton School education:
 - 🏢 **Partnership:** IBM SkillsBuild Program Participant
 - 🌍 **Location:** France
 - 📧 **Contact:** patrick.yann.michel@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/patrick-michel)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/patrick-michel-688928109/)
 - 🐙 **GitHub:** [@Pmichel74](https://github.com/Pmichel74)
 
 ### 💡 Professional Philosophy
